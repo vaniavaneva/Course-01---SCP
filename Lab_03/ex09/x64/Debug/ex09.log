@@ -1,0 +1,4 @@
+﻿  ex09.cpp
+E:\Course 01 - SCP\Lab_03\ex09\ex09.cpp(10,11): warning C4101: 'p': unreferenced local variable
+E:\Course 01 - SCP\Lab_03\ex09\ex09.cpp(10,14): warning C4101: 's': unreferenced local variable
+  ex09.vcxproj -> E:\Course 01 - SCP\Lab_03\x64\Debug\ex09.exe

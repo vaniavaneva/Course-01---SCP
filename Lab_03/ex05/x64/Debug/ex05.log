@@ -1,0 +1,3 @@
+﻿  ex05.cpp
+E:\Course 01 - SCP\Lab_03\ex05\ex05.cpp(9,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ex05.vcxproj -> E:\Course 01 - SCP\Lab_03\x64\Debug\ex05.exe
