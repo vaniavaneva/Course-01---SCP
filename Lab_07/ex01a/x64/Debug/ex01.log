@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ex01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ex01a.cpp
+E:\Course 01 - SCP\Lab_07\ex01\ex01a.cpp(3,1): warning C4005: 'RAND_MAX': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(348,1):
+  see previous definition of 'RAND_MAX'
+  
+  ex01.vcxproj -> E:\Course 01 - SCP\Lab_07\x64\Debug\ex01a.exe
