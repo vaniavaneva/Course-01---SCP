@@ -1,0 +1,7 @@
+Lab_01 - First steps in coding.
+Lab_02 - Numeral systems; Bitwise Operations.
+Lab_03 - Conditional statements (if, if-else, switch).
+Lab_04 - Loops (while, do-while, for).
+Lab_05 - More loops.
+Lab_06 - Arrays; Nested loops.
+Lab_07 - More Arrays; Nested loops.
