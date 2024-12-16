@@ -5,3 +5,6 @@ Lab_04 - Loops (while, do-while, for).
 Lab_05 - More loops.
 Lab_06 - Arrays; Nested loops.
 Lab_07 - More Arrays; Nested loops.
+Lab_08 - Pointers.
+Lab_09 - Functions.
+Lab_10 - Functions; Pointers.
