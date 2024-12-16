@@ -1,0 +1,4 @@
+﻿  ex06.cpp
+E:\Course 01 - SCP\Lab_10\ex06\ex06.cpp(102,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\Course 01 - SCP\Lab_10\ex06\ex06.cpp(106,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ex06.vcxproj -> E:\Course 01 - SCP\Lab_10\x64\Debug\ex06.exe
